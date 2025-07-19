@@ -34,3 +34,8 @@ python init_db.py
 ```bash
 python ArepaFactory_App.py
 ```
+7. Browse to
+```
+http://127.0.0.1:5000/add
+```
+>**Note:** You can use your VM IP address instead of "127.0.0.1" in case you want to test the application from an attacker machine
