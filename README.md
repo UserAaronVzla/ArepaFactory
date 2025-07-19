@@ -9,6 +9,10 @@ Two-page Flask app that lets you add arepa products (name, price) and search the
 * Session-based CSRF token
 * Runs on Debian/Ubuntu with Python 3.11+
 
+## Prerequisites
+```bash
+sudo apt -y install python3 python3-venv python3-pip git
+```
 ## Setup
 1. Clone the repository
 ```bash
