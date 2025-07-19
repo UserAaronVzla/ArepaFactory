@@ -2,7 +2,7 @@
 
 Two-page Flask app that lets you add arepa products (name, price) and search them.
 
-# About
+## About
 
 * **SQL** database (`sqlite3`) with parameterised queries
 * Manual security headers (CSP, X-Frame-Options …)
