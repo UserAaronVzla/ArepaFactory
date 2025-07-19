@@ -12,7 +12,7 @@ Two-page Flask app that lets you add arepa products (name, price) and search the
 ## Setup
 1. Clone the repository
 ```bash
-git clone https://github.com/<yourUser>/ArepaFactory.git
+git clone https://github.com/UserAaronVzla/ArepaFactory.git
 ```
 2. Move yourself inside the folder
 ```bash
